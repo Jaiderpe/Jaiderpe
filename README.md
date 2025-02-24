@@ -30,7 +30,19 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaiderpe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+--------
+## 🦁 A Lion Eating my Contributions Graph
 
+<p align="center">
+  <!-- Reemplaza esta URL por la del gráfico de león generado -->
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Lion Eating Contributions">
+</p>
+
+<p align="center">
+  <i>¡Disfruta viendo cómo el león crece mientras tus contribuciones aumentan!</i>
+</p>
+
+--------
 ### 🌐 **Conéctame**:
 Puedes encontrarme en [GitHub](https://github.com/Jaiderpe), [LinkedIn](https://www.linkedin.com/in/jaiderperezvega), y en mi [Portfolio](#).  
 [![](https://visitcount.itsvg.in/api?id=Jaiderpe&icon=0&color=0)](https://visitcount.itsvg.in)
