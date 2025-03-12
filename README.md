@@ -1,98 +1,81 @@
-¡Claro! Aquí tienes algunas sugerencias para enriquecer tu perfil de GitHub y hacerlo más atractivo para posibles empleadores o colaboradores, aprovechando también el contenido de tu portafolio:
+### 🚀 **Mi Perfil de GitHub**
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=¡Bienvenido!&fontSize=50&fontAlignY=35&fontColor=fff)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B801&center=true&vCenter=true&width=700&height=70&lines=Hola%2C+soy+Jaider+P%C3%A9rez!;Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n;Bienvenido+a+mi+perfil!" alt="Typing SVG" />
+</p>
+
+Soy **Jaider Pérez**, un desarrollador Full Stack apasionado por crear soluciones tecnológicas innovadoras. Me especializo en el desarrollo web con tecnologías modernas como Java, JavaScript y bases de datos SQL/NoSQL. Me encanta resolver problemas complejos y aprender nuevas tecnologías. Actualmente, estoy enfocado en mejorar mis habilidades en el desarrollo de aplicaciones web y móviles, así como en la implementación de arquitecturas escalables.
 
 ---
 
-### 📂 **Proyectos Destacados**
+### 🛠️ **Habilidades Técnicas**
 
-#### 🚀 **Proyecto 1: [Nombre del Proyecto]**
-- **Descripción breve**: Una descripción concisa de lo que hace el proyecto y su propósito.
-- **Tecnologías utilizadas**: Lista de tecnologías y herramientas que usaste.
-- **Enlace al proyecto**: [Ver en GitHub](#) | [Ver en vivo](#)
+**Frontend**
 
-#### 🚀 **Proyecto 2: [Nombre del Proyecto]**
-- **Descripción breve**: Otra descripción breve pero impactante.
-- **Tecnologías utilizadas**: Lista de tecnologías y herramientas.
-- **Enlace al proyecto**: [Ver en GitHub](#) | [Ver en vivo](#)
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
-#### 🚀 **Proyecto 3: [Nombre del Proyecto]**
-- **Descripción breve**: Una descripción que resalte lo más interesante del proyecto.
-- **Tecnologías utilizadas**: Lista de tecnologías y herramientas.
-- **Enlace al proyecto**: [Ver en GitHub](#) | [Ver en vivo](#)
+**Backend**
 
----
+- Java
+- Spring Boot
 
-### 🎨 **Portafolio**
+**Bases de Datos**
 
-#### 🌐 **Visita mi Portafolio**
-- **Descripción**: Explora mis proyectos, habilidades y experiencia en mi portafolio en línea.
-- **Enlace**: [https://magical-youtiao-97c4fc.netlify.app/](https://magical-youtiao-97c4fc.netlify.app/)
+- MySQL
+
+**DevOps & Herramientas**
+
+- Git
+- GitHub
+- Vercel/Netlify
 
 ---
 
-### 📝 **Blog y Artículos**
+### 🎨 **Mi Portafolio**
 
-#### 📚 **Artículos Recientes**
-- **Título del Artículo 1**: Breve descripción del artículo. [Leer más](#)
-- **Título del Artículo 2**: Breve descripción del artículo. [Leer más](#)
-- **Título del Artículo 3**: Breve descripción del artículo. [Leer más](#)
+🔗 **Visítalo aquí**: [https://magical-youtiao-97c4fc.netlify.app/](https://magical-youtiao-97c4fc.netlify.app/)
 
----
-
-### 🏆 **Logros y Certificaciones**
-
-#### 🏅 **Certificaciones**
-- **Nombre de la Certificación 1**: Breve descripción. [Ver certificado](#)
-- **Nombre de la Certificación 2**: Breve descripción. [Ver certificado](#)
-
-#### 🏅 **Logros**
-- **Logro 1**: Breve descripción.
-- **Logro 2**: Breve descripción.
+![Portfolio GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ---
 
 ### 📈 **Estadísticas de GitHub**
 
-#### 🌟 **Mis contribuciones**:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaiderpe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+#### 🌟 **Mis contribuciones**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaiderpe&theme=radical&show_icons=true&hide_border=true)
 
-#### 🔥 **Mi racha de contribuciones**:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaiderpe&theme=dark&hide_border=false)  
+#### 🔥 **Mi racha de contribuciones**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaiderpe&theme=radical&hide_border=true)
 
-#### 📊 **Lenguajes principales**:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaiderpe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### 🌐 **Conéctame**
-
-Puedes encontrarme en [GitHub](https://github.com/Jaiderpe), [LinkedIn](https://www.linkedin.com/in/jaiderperezvega), y en mi [Portafolio](https://magical-youtiao-97c4fc.netlify.app/).  
-[![](https://visitcount.itsvg.in/api?id=Jaiderpe&icon=0&color=0)](https://visitcount.itsvg.in)
+#### 📊 **Lenguajes más usados**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaiderpe&theme=radical&hide_border=true&layout=compact)
 
 ---
 
-#### **¡Te agradezco por tu visita!**  
-> **¡Estamos en contacto!**  
->  *¡Hablemos sobre cómo puedo ayudarte a impulsar tus proyectos con tecnología!*
-
----
-
-### 🦁 **A Lion Eating my Contributions Graph**
+### 🎮 **Animación de Repositorios en Acción**
 
 <p align="center">
-  <!-- Reemplaza esta URL por la del gráfico de león generado -->
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Lion Eating Contributions">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaiderpe&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
-<p align="center">
-  <i>¡Disfruta viendo cómo el león crece mientras tus contribuciones aumentan!</i>
-</p>
+> Una animación dinámica que muestra la actividad y evolución de mis repositorios en GitHub.
 
 ---
 
-### 📌 **Consejos Adicionales**
+### 📫 **Contáctame**
 
-1. **Actualiza tu README.md**: Asegúrate de que tu README.md en cada repositorio esté bien documentado y sea fácil de entender.
-2. **Participa en la comunidad**: Contribuye a proyectos de código abierto y participa en discusiones en GitHub.
-3. **Mantén tu perfil activo**: Realiza commits regularmente y mantén tus proyectos actualizados.
+Estoy interesado en oportunidades de trabajo freelance y colaboraciones en proyectos. Si tienes alguna pregunta o propuesta, no dudes en contactarme.
 
-¡Espero que estas sugerencias te sean útiles para mejorar tu perfil de GitHub y atraer más atención a tu trabajo! ¡Buena suerte! 🚀
+- 📧 **Correo**: tu@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaiderperezvega)
+- 🌐 [GitHub](https://github.com/Jaiderpe)
+
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Jaiderpe)
+
+---
+
+> **¡Gracias por visitar mi perfil!** 🚀
