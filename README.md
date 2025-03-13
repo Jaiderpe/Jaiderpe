@@ -37,7 +37,7 @@ Soy **Jaider Pérez**, un desarrollador Full Stack apasionado por crear solucion
 
 ### 🎨 **Mi Portafolio**
 
-🔗 **Visítalo aquí**: [https://magical-youtiao-97c4fc.netlify.app/](https://magical-youtiao-97c4fc.netlify.app/)
+🔗 **Visítalo aquí**: [https://magical-youtiao-97c4fc.netlify.app/](https://magical-chimera-14df9b.netlify.app/)
 
 ![Portfolio GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
